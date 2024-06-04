@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
   
    ![333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/f278381a-1390-48c4-a692-8ba308ce7423)
 
-- <h2>Ubuntu Server 20.04</h2>h2>
+- <h2>Ubuntu Server 20.04</h2>
   
   ![Ubuntu-20-04-LTS-new-features-Stackscale-blog](https://github.com/hardik1017/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/170269652/6172f89e-3703-49c7-a3af-c3eb94f82632)
 
