@@ -12,7 +12,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- <h2>Microsoft Azure (Virtual Machines/Compute)</h2>
+ ![333837124-4a6602eb-08fb-4579-92db-9effa88e2c6e](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/32aa0203-e4f1-4c50-98a4-f4dacbd65d05)
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
