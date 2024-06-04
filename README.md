@@ -18,7 +18,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
  ![333838048-622e12c0-9911-41a8-ad28-1cce13e81d25](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/46133d82-cbb0-4e52-8c79-8f4e5a0d68d7)
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- <h2>Wireshark (Protocol Analyzer)</h2>
+  
   ![Wireshark 4 0 10 Released What’s New!](https://github.com/hardik1017/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/170269652/9b2114a2-db56-43cc-b743-f336e8598982)
 
 
