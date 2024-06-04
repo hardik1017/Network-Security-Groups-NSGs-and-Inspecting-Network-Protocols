@@ -19,6 +19,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
+  ![Wireshark 4 0 10 Released What’s New!](https://github.com/hardik1017/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/170269652/9b2114a2-db56-43cc-b743-f336e8598982)
+
 
 <h2>Operating Systems Used </h2>
 
