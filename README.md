@@ -14,14 +14,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - <h2>Microsoft Azure (Virtual Machines/Compute)</h2>
  ![333837124-4a6602eb-08fb-4579-92db-9effa88e2c6e](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/32aa0203-e4f1-4c50-98a4-f4dacbd65d05)
-- Remote Desktop
+- <h2>Remote Desktop</h2>
+ ![333838048-622e12c0-9911-41a8-ad28-1cce13e81d25](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/46133d82-cbb0-4e52-8c79-8f4e5a0d68d7)
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- <h2>Windows 10</b> (21H2)</h2>
+  
+   ![333837721-1e87bc76-a447-42d8-a23e-ec59f2766a5f](https://github.com/hardik1017/osTicket-Ticket-Lifecycle-Examples/assets/170269652/f278381a-1390-48c4-a692-8ba308ce7423)
+
 - Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
